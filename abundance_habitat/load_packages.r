@@ -1,0 +1,13 @@
+# LOAD PACKAGES FOR TEMPERATURE ANALYSIS
+library(magrittr)
+library(boot)
+library(AICcmodavg)
+library(plyr)
+library(spdep)
+library(ape)
+library(XLConnect)
+library(glmmADMB)
+library(mgcv)
+library(gamm4)
+library(geosphere)
+library(unmarked)
